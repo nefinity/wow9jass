@@ -6,7 +6,7 @@
 ###/src
 放置所有代码的目录
 ###/src/base
-仅限于基本功能, 数据结构和算法库, 如TimerUtils, Vector, Stack. 不得放置更高级功能的库.
+仅限于基本功能, 数据结构和算法库, 如TimerUtils, Vector, Stack等. 不得放置更高级功能的库.
 ###/src/utils
 所有的工具库, 可放置各种工具类函数或者结构体的库, 一般会比较依赖```/src/base```里面的库
 ###/src/&lt;系统名称&gt;
